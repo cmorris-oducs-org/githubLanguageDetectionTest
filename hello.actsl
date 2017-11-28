@@ -1,0 +1,7 @@
+
+int nul
+fun main
+	"Hello World!\n" arg call printf ref nul =
+return
+endfun
+

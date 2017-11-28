@@ -1,0 +1,8 @@
+
+ import console
+
+ def Main: Main()
+ {
+	console!Stdout().Puts("Hello World!")
+ }.
+

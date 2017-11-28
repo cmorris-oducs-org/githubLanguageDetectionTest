@@ -1,0 +1,2 @@
+ -module(hello).
+ -export([hello_world/0]).
